@@ -1,6 +1,20 @@
 [
-    {"name": "rat race", "artist": ["The8", "Vernon"], "album": "V8"},
-    {"name": "singasong", "artist": ["The8", "Vernon"], "album": "V8"},
-    {"name": "8DM", "artist": ["The8"], "album": "V8"},
-    {"name": "mia", "artist": ["Vernon"], "album": "V8"}
+    {"name": "rat race", "artist": ["The8", "Vernon"], "album": "V8", "plays": 100},
+    {"name": "singasong", "artist": ["The8", "Vernon"], "album": "V8", "plays": 50},
+    {"name": "8DM", "artist": ["The8"], "album": "V8", "plays": 20},
+    {"name": "mia", "artist": ["Vernon"], "album": "V8", "plays": 30},
+    {"name": "BAD", "artist": ["ATEEZ"], "album": "GOLDEN HOUR: Part. 5", "plays": 40},
+    {"name": "WannaCry", "artist": ["Ninajirachi", "Porter Robinson"], "album": "WannaCry", "plays": 20},
+    {"name": "RUN IT", "artist": ["Stray Kids"], "album": "THIS OR THAT", "plays": 10},
+    {"name": "KGB", "artist": ["ADÉLA"], "album": "KGB", "plays": 5},
+    {"name": "Red Bottoms", "artist": ["ADÉLA"], "album": "Red Bottoms", "plays": 15},
+    {"name": "Ain't In LA", "artist": ["ADÉLA"], "album": "Ain't In LA", "plays": 25},
+    {"name": "Don't Wake Me Up!", "artist": ["WONHO"], "album": "CORE", "plays": 100},
+    {"name": "Answer", "artist": ["WONHO"], "album": "CORE", "plays": 10},
+    {"name": "Can't Get Enough", "artist": ["WONHO"], "album": "CORE", "plays": 10},
+    {"name": "Summer Blue", "artist": ["WONHO"], "album": "CORE", "plays": 10},
+    {"name": "Down", "artist": ["WONHO"], "album": "CORE", "plays": 10},
+    {"name": "Test Drive", "artist": ["WONHO"], "album": "CORE", "plays": 10},
+    {"name": "Dinero", "artist": ["MINGI"], "album": "Dinero", "plays": 10},
+    {"name": "Vitamin ME", "artist": ["fromis_9"], "album": "Glow ME", "plays": 10}
 ]
